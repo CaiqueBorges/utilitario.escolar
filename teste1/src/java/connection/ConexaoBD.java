@@ -27,7 +27,7 @@ public class ConexaoBD {
             
              conn = DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/utilitarioescolar", 
-                    "root", "caique");
+                    "root", "1234");
            
             
             
